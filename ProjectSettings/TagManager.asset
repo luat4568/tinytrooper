@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Character
     uniqueID: 1011962061
     locked: 0
+=======
+>>>>>>> Developer
